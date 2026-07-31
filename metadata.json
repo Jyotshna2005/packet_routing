@@ -1,0 +1,6 @@
+{
+  "name": "Network Packet Tracer",
+  "description": "Cyberpunk interactive network packet simulation and traceroute visualizer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
